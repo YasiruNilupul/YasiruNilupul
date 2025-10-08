@@ -15,18 +15,8 @@
 
 ---
 
-## 📈 GitHub Stats
-![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasiruwickramage&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge)](https://weatherstation.liveblog365.com)
+[![LinkedIn](www.linkedin.com/in/yasiru-wickramage-2b6789387)
 
 ---
 
-### ✨ Featured Projects
-- 🔭 [IoT Weather Station](https://weatherstation.liveblog365.com) — real-time sensor dashboard using ESP32 + Google Cloud  
-- 🤖 [Object Detection with Raspberry Pi 5](#) — YOLOv8 and GPIO-based automation  
-- ☀️ [Solar Panel Irradiance Tracker](#) — live monitoring using ADS1115 and Kalman filtering
