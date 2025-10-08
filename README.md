@@ -16,7 +16,4 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](www.linkedin.com/in/yasiru-wickramage-2b6789387)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasiru%20Wickramage-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasiru-wickramage-2b6789387)
