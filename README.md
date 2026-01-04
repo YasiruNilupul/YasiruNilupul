@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yasiru Wickramage  
 
-🚀 Passionate about **IoT, AI, and Embedded Systems**  
+🚀 Passionate about **Robotics and Embedded Systems**  
 🎓 Undergraduate at the **University of Moratuwa**  
 🌱 Currently exploring **ESP32, Raspberry Pi, and Cloud IoT Integration**  
 💡 Always excited to build and share hands-on projects!
